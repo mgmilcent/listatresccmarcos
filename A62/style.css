@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  
+  .divprincipal {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .divbanner {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .divmenuhsuperior {
+    background-color: #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .divmenuhsuperior a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .divcentral {
+    display: flex;
+  }
+  
+  .divmenuvesquerda {
+    flex: 0 0 200px;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .divmenuvesquerda a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .divconteudo {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+  }

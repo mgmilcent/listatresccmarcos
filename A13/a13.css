@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: aqua ;
+}
+
+body .titulo{
+    color: antiquewhite;
+}
+
+body .paragrafo{
+    font-size: 20px;
+    color: blueviolet;
+}
+
+body .paragrafo .html{
+    color: blue;
+}
+
+body .titulodois{
+    color: darkslategray;
+}
+
+body .lista{
+    background-color: darkgreen;
+}
+
+body .listagem{
+    padding-left: 30px;
+    color: antiquewhite;
+}
